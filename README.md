@@ -74,14 +74,18 @@ Esses ambientes são 100% gratuitos e você pode criar quantos quiser. Um ambien
 
 ### Documentação Salesforce
 Outra forma de aprender sobre o Salesforce é pelo site de documentação, que é bem completo e atualizado:
-Landing page: https://developer.salesforce.com/docs#browse
-Apex Guide: https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm
-Apex Docs: https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex_ref_guide.htm
+- Landing page: https://developer.salesforce.com/docs#browse
+- Apex Guide: https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm
+- Apex Docs: https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex_ref_guide.htm
 
-Impacto do Trailhead e mais informações
+## Impacto do Trailhead e mais informações
 Por fim, o trailhead serve, além de tudo, como portfólio no mundo de Salesforce. Na sua página Trailblazer (perfil do trailhead) é possível ver as conquistas da pessoa pela quantidade de pontos e badges. Além disso, um ponto importante para trabalhar com Salesforce é obter certificações. Assim como a Microsoft, Oracle, SAP e AWS, um profissional pode se certificar em Salesforce em diversos assuntos.
 As certificações em Salesforce ajudam muito a alavancar a carreira e conseguir empregos nas melhores empresas (apesar de ser possível ir longe sem certificações, ter algumas facilita a sua vida).
+
 > Nota: No perfil trailblazer também serão exibidas as certificações conquistadas
 
 Exemplo de perfil Salesforce:
 https://trailblazer.me/id/ferdam
+
+
+Obrigado
