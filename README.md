@@ -2,7 +2,7 @@
 Salesforce é, principalmente, uma ferramenta de CRM (Customer Relationship Management), mas hoje é capaz de fazer muito mais do que apenas isso.
 É um ecossistema em nuvem, altamente customizável e facilmente integrável com outros sistemas: um ambiente de Salesforce pode enviar dados a outros sistemas e outros sistemas podem enviar dados ao Salesforce.
 A plataforma é dividida em clouds, que são conjuntos de soluções para resolver problemas e facilitar assuntos que comumente se encontram na maioria das empresas.
-Algumas clouds são oficiais, outras são third-party feitas com as ferramentas de desenvolvimento Salesforce (são como plugins)
+Algumas clouds são oficiais, outras são third-party, feitas com as ferramentas de desenvolvimento Salesforce (são como plugins)
 
 As Clouds principais (oficiais):
 - Sales Cloud: a mais comum, gerencia dados de vendas, clientes e até mapeamento de contatos
@@ -21,11 +21,11 @@ Criação de automações com as ferramentas padrões (Flow); Customização com
   - Aura/Lightning Web Components (LWC) - frameworks para desenvolvimento de elementos visuais (frontend) utilizando tecnologias web como HTML/CSS e JavaScript
 - Consultant / Business Analyst:
 Pessoas que vão analisar as dores dos clientes e usuários e traduzir em soluções que a plataforma resolva
-- Architect
+- Architect: 
 Profissionais encarregados de montar a arquitetura de soluções e de sistemas pensando no ecossistema Salesforce
-- Designer
+- Designer: 
 Salesforce possui um robusto Design System (Salesforce Lightning Design System - SLDS)
-- Vendas (Sales Career)
+- Vendas (Sales Career): 
 Profissionais que vão de fato fazer uso da plataforma para gerenciar dados de vendas, registrar produtos e mapear clientes
 
 
