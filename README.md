@@ -88,4 +88,4 @@ Exemplo de perfil Salesforce:
 https://trailblazer.me/id/ferdam
 
 
-Obrigado
+Obrigado 😎
