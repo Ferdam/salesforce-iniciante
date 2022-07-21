@@ -32,20 +32,27 @@ Profissionais que vão de fato fazer uso da plataforma para gerenciar dados de v
 
 
 ## Aprender Salesforce - Trailhead
-Como aprender a usar, configurar e desenvolver a plataforma Salesforce:
+Aprender Salesforce é 100% de graça: a plataforma oficial de treinamento se chama Trailhead e lá você encontra treinamentos para todos os assuntos da plataforma, inclusive sobre as diversas clouds.
+Ou seja, Trailhead é onde você poderá aprender a como usar, configurar e desenvolver a plataforma Salesforce.
 
-Aprender Salesforce é 100% de graça. 
-A plataforma oficial de treinamento se chama Trailhead e lá você encontra treinamentos para todos os assuntos da plataforma, inclusive sobre as diversas clouds.
+O Trailhead possui lições que são apenas leitura, outras que para a conclusão é preciso acertar o Quiz e, um ultimo tipo, que são os que requerem que você realizar ações em um ambiente pessoal de desenvolvimento (Dev Org / Playgrounds) - haverá uma validação do ambiente para saber se você concluiu a tarefa corretamente
+Esses ambientes são 100% gratuitos e você pode criar quantos quiser. Um ambiente Dev ou Playground possuem praticamente todas as capacidades de uma org paga usada em produção por um cliente.
 
-Primeiro passo é fazer uma conta no Trailhead: https://trailhead.salesforce.com/en
 
-Segundo passo é escolher um career path: quer ser desenvolvedor de customizações? Ou administrar a plataforma? Ou então ser um consultor / analista de negócios?
+### Passo-a-passo
+
+1. Fazer uma conta no Trailhead: https://trailhead.salesforce.com/en
+2. Escolher um career path: 
+   * Quer ser desenvolvedor de customizações para a plataforma? 
+   * Ou prefere administrar a plataforma? 
+   * Ou então ser um consultor / analista de negócios?
 > **Note**:
 > Certamente, o que mais chove vagas nesse mundo é para Desenvolvedor, seguido de Admin e Consultores
 
-Em seguida é seguir uma trilha de aprendizado no trailhead. 
+3. Seguir uma trilha de aprendizado no trailhead
+   * Pessoalmente, acho a forma mais facil, pois evita que comece assuntos avançados antes da hora
 > **Note**:
-> Trilhas são conjuntos de módulos que formam um objetivo.
+> Trilhas são conjuntos de módulos que formam um objetivo (aprender algo especifico sobre Apex; aprender a criar objetos e campos; configurar layouts, etc)
 
 Referência: Salesforce Careers
 
@@ -72,15 +79,23 @@ Exemplos:
 #### Wipro
 - Lightning Web Components (LWC): https://trailhead.salesforce.com/en/users/egarcia22/trailmixes/lwc-path
 
-	
-Lembrar que o Trailhead possui lições que são apenas leitura, outras que para a conclusão é preciso acertar o Quiz e, um ultimo tipo, que são os que requerem que você realizar ações em um ambiente pessoal de desenvolvimento (Dev Org / Playgrounds) - haverá uma validação do ambiente para saber se você concluiu a tarefa corretamente
-Esses ambientes são 100% gratuitos e você pode criar quantos quiser. Um ambiente Dev ou Playground possuem praticamente todas as capacidades de uma org paga usada em produção por um cliente.
 
 ### Documentação Salesforce
 Outra forma de aprender sobre o Salesforce é pelo site de documentação, que é bem completo e atualizado:
 - Landing page: https://developer.salesforce.com/docs#browse
 - Apex Guide: https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm
 - Apex Docs: https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex_ref_guide.htm
+
+
+## Impacto do Trailhead e mais informações
+Por fim, o trailhead serve, além de tudo, como portfólio no mundo de Salesforce. Na sua página Trailblazer (perfil do trailhead) é possível ver as conquistas da pessoa pela quantidade de pontos e badges. Além disso, um ponto importante para trabalhar com Salesforce é obter certificações. Assim como a Microsoft, Oracle, SAP e AWS, um profissional pode se certificar em Salesforce em diversos assuntos.
+As certificações em Salesforce ajudam muito a alavancar a carreira e conseguir empregos nas melhores empresas (apesar de ser possível ir longe sem certificações, ter algumas facilita a sua vida).
+
+> **Note**: 
+> No perfil trailblazer também serão exibidas as certificações conquistadas
+
+Exemplo de perfil Salesforce:
+https://trailblazer.me/id/ferdam
 
 ## Certificações
 Um ponto importante na carreira Salesforce é conquistar as certificações oficiais da Salesforce.
@@ -108,15 +123,6 @@ As certificações são exibidas na conta Trailhead linkada no Webassessor
 > **Note**:
 > <u>Nunca crie uma conta Webassessor com email da sua empresa</u>, use o email **PESSOAL**. As certificações são **SUAS**, não das empresas que você trabalha
 
-## Impacto do Trailhead e mais informações
-Por fim, o trailhead serve, além de tudo, como portfólio no mundo de Salesforce. Na sua página Trailblazer (perfil do trailhead) é possível ver as conquistas da pessoa pela quantidade de pontos e badges. Além disso, um ponto importante para trabalhar com Salesforce é obter certificações. Assim como a Microsoft, Oracle, SAP e AWS, um profissional pode se certificar em Salesforce em diversos assuntos.
-As certificações em Salesforce ajudam muito a alavancar a carreira e conseguir empregos nas melhores empresas (apesar de ser possível ir longe sem certificações, ter algumas facilita a sua vida).
-
-> **Note**: 
-> No perfil trailblazer também serão exibidas as certificações conquistadas
-
-Exemplo de perfil Salesforce:
-https://trailblazer.me/id/ferdam
 
 
 Obrigado 😎
