@@ -78,11 +78,38 @@ Outra forma de aprender sobre o Salesforce é pelo site de documentação, que �
 - Apex Guide: https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm
 - Apex Docs: https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex_ref_guide.htm
 
+## Certificações
+Um ponto importante na carreira Salesforce é conquistar as certificações oficiais da Salesforce.
+Não é a única forma de crescer nessa carreira, mas facilita muito. Seguir sem certificações pode dar certo, não é nenhuma regra, nada obrigatório, porém, quando se possui mais experiência, verá que os demais profissionais do mesmo nível possuem pelo menos 2 ou 3 certificações.
+
+### Como?
+Você deve se perguntar agora: "tá, como faço para obter uma então?"
+A resposta é que: as certificações oficiais da Salesforce são pagas e não custam barato, sobretudo pro brasileiro que hoje sofre com dolar boiando na faixa dos R$ 5,10.
+Existem duas categorias principais: as de arquitetura e as demais. Para as de arquitetura, a prova custa $400 USD; as demais saem por $200 USD.
+No entanto, apesar de serem caríssimas, é possível conseguir vouchers de desconto pela própria Salesforce ou direto da empresa que você trabalha.
+- Pela Salesforce:
+  - Existem diversos eventos, fisicos e virtuais, que promovem todos os anos e em vários desses é possível adquirir um voucher de desconto que vai de $50 USD até $150 USD
+  - A Salesforce prepara alguns webinars, palestras e cursos introdutórios/preparatórios relacionados a primeira certificação. Alguns desses 'eventos' podem oferecer, para quem participa, vouchers de até 100% de desconto para primeiras certificações de até $200 USD.
+  - Também existem os vouchers globais e regionais. Pessoalmente não vejo um há um bom tempo, mas até durante a pandemia de 2021, costumava ser fácil encontrar vários vouchers com $50 e $100 de desconto
+- Pela empresa:
+  - Algumas empresas, sobretudo as de consultoria, possuem parceria com a Salesforce e conseguem um pacote de vouchers de 100% de desconto para diversas provas, incluindo até as de arquitetura em alguns casos.
+  - Outras, que não possuem essa parceria suficiente para garantir vouchers, podem oferecer reembolso quando o profissional conquista a certificação (a maioria não vai te reembolsar se você falhar, procure saber antes de marcar a prova como funciona)
+- (Bonus) conseguir certificação de graça sem pagar nada nada:
+  - Além de todas essas formas, é possível conseguir se certificar se você se inscrever no programa de Certificações Beta da Salesforce. São certificações que os voluntários selecionados irão mais com intuito de testar as novas questões que serão aplicadas do que de fato se certificar.
+
+Importante lembrar que você precisa ter uma conta [Trailhead](https://trailhead.salesforce.com/) e uma conta no [Webassessor](https://www.webassessor.com/).
+As provas são compradas pelo Webassessor.
+As certificações são exibidas na conta Trailhead linkada no Webassessor
+
+> **Note**:
+> <u>Nunca crie uma conta Webassessor com email da sua empresa</u>, use o email **PESSOAL**. As certificações são **SUAS**, não das empresas que você trabalha
+
 ## Impacto do Trailhead e mais informações
 Por fim, o trailhead serve, além de tudo, como portfólio no mundo de Salesforce. Na sua página Trailblazer (perfil do trailhead) é possível ver as conquistas da pessoa pela quantidade de pontos e badges. Além disso, um ponto importante para trabalhar com Salesforce é obter certificações. Assim como a Microsoft, Oracle, SAP e AWS, um profissional pode se certificar em Salesforce em diversos assuntos.
 As certificações em Salesforce ajudam muito a alavancar a carreira e conseguir empregos nas melhores empresas (apesar de ser possível ir longe sem certificações, ter algumas facilita a sua vida).
 
-> Nota: No perfil trailblazer também serão exibidas as certificações conquistadas
+> **Note**: 
+> No perfil trailblazer também serão exibidas as certificações conquistadas
 
 Exemplo de perfil Salesforce:
 https://trailblazer.me/id/ferdam
