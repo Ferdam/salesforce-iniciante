@@ -13,6 +13,7 @@
   - [1.4. Impacto do Trailhead e mais informações](#14-impacto-do-trailhead-e-mais-informações)
   - [1.5. Certificações](#15-certificações)
     - [1.5.1. Como?](#151-como)
+    - [1.5.2. Tá, mas quais devo focar?](#152-tá-mas-quais-devo-focar)
 
 
 ## 1.1. O que é Salesforce?
@@ -166,5 +167,9 @@ Simulados/Exames para praticar/Mockup exams (gratuitos):
     - https://focusonforce.com/salesforce-adm-201-exam-questions/
   - Certified Platform App Builder:
     - https://www.salesforceben.com/free-salesforce-platform-app-builder-practice-exam-with-answers/
+
+
+
+
 
 Obrigado 😎
