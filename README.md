@@ -114,7 +114,7 @@ https://trailblazer.me/id/ferdam
 
 ## 1.5. Certificações
 Um ponto importante na carreira Salesforce é conquistar as certificações oficiais da Salesforce.
-Não é a única forma de crescer nessa carreira, mas facilita muito. Seguir sem certificações pode dar certo, não é nenhuma regra, nada obrigatório, porém, quando se possui mais experiência, verá que os demais profissionais do mesmo nível possuem pelo menos 2 ou 3 certificações.
+Não é a única forma de crescer nessa carreira, mas facilita muito. Seguir sem certificações pode dar certo, não é nenhuma regra, nada obrigatório. Porém, quando se possui mais experiência, verá que os demais profissionais do mesmo nível possuem pelo menos 2 ou 3 certificações (daí pra cima).
 
 ### 1.5.1. Como?
 Você deve se perguntar agora: "tá, como faço para obter uma então?"
@@ -138,6 +138,33 @@ As certificações são exibidas na conta Trailhead linkada no Webassessor
 > **Note**:
 > <u>Nunca crie uma conta Webassessor com email da sua empresa</u>, use o email **PESSOAL**. As certificações são **SUAS**, não das empresas que você trabalha
 
+### 1.5.2. Tá, mas quais devo focar?
+Vou listar algumas certificações, principalmente as consideradas 'certificações base'. Na lista encontrará as que são mais comuns de se conquistar em inicio de carreira:
 
+- Iniciantes (Geral)
+  - Salesforce Certified Associate (75 USD)
+    - É a certificação mais 'base' de todas.
+    - Também ajuda a dar um 'boost' no curriculo de quem é iniciante. De qualquer forma, recomendo focar nesta primeiro, sobretudo se tiver menos de 1 ano de estudo/experiência
+
+- Devs (200 USD):
+  - Salesforce Certified Platform Developer I
+  - Salesforce Certified Platform App Builder
+  - Salesforce Certified JavaScript Developer I
+    - Não inclui nada especifico do Salesforce, porém vc precisa concluir uma Super Badge (aqui sim, tem a ver com Salesforce), além de passar na prova, para conseguir o certificado.
+
+- Admins (200 USD)
+  - Salesforce Certified Administrator
+  - Salesforce Certified Associate (75 USD)
+  - Salesforce Certified Business Analyst
+    - Um pouco mais avançada, mas se tiver experiência em lidar com o time de negócios de um cliente/empresa, capturar requerimentos de sistema etc, vale colocar na lista
+
+Simulados/Exames para praticar/Mockup exams (gratuitos):
+  - Certified Developer I:
+    - https://www.salesforceben.com/salesforce-platform-developer-1-practice-exams/
+  - Certified Administrator:
+    - https://www.salesforceben.com/salesforce-admin-practice-exam/
+    - https://focusonforce.com/salesforce-adm-201-exam-questions/
+  - Certified Platform App Builder:
+    - https://www.salesforceben.com/free-salesforce-platform-app-builder-practice-exam-with-answers/
 
 Obrigado 😎
