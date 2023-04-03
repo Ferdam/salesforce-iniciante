@@ -132,7 +132,7 @@ No entanto, apesar de serem caríssimas, é possível conseguir vouchers de desc
 - (Bonus) conseguir certificação de graça sem pagar nada nada:
   - Além de todas essas formas, é possível conseguir se certificar se você se inscrever no programa de Certificações Beta da Salesforce. São certificações que os voluntários selecionados irão mais com intuito de testar as novas questões que serão aplicadas do que de fato se certificar.
 
-Importante lembrar que você precisa ter uma conta [Trailhead](https://trailhead.salesforce.com/) e uma conta no [Webassessor](https://www.webassessor.com/).
+Importante lembrar que você precisa ter uma conta [Trailhead](https://trailhead.salesforce.com/) e uma conta no [Webassessor](https://www.webassessor.com/wa.do?page=createAccount&branding=SALESFORCE).
 As provas são compradas pelo Webassessor.
 As certificações são exibidas na conta Trailhead linkada no Webassessor
 
