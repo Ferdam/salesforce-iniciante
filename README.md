@@ -1,5 +1,5 @@
 # 1. Guide para Iniciar em Salesforce (Atualizado 2025)
-- [1. Guide para Iniciar em Salesforce (Atualizado 2025)](#1-guide-para-iniciar-em-salesforce--atualizado-2025)
+- [1. Guide para Iniciar em Salesforce (Atualizado 2025)](#1-guide-para-iniciar-em-salesforce-atualizado-2025)
   * [1.1. O que é Salesforce?](#11-o-que-é-salesforce)
   * [1.2. Carreiras](#12-carreiras)
   * [1.3. Aprender Salesforce - Trailhead](#13-aprender-salesforce---trailhead)
@@ -14,14 +14,14 @@
     + [1.3.2. Prática](#132-prática)
   * [1.4. Impacto do Trailhead e mais informações](#14-impacto-do-trailhead-e-mais-informações)
   * [1.5. Certificações](#15-certificações)
-    + [1.5.1. IMPORTANTE: Mudança para Trailhead Academy](#151-importante--mudança-para-trailhead-academy)
+    + [1.5.1. IMPORTANTE: Mudança para Trailhead Academy](#151-importante-mudança-para-trailhead-academy)
     + [1.5.2. Como obter certificações?](#152-como-obter-certificações)
     + [1.5.3. Tá, mas quais devo focar?](#153-tá-mas-quais-devo-focar)
   * [1.6. O que está em alta hoje](#16-o-que-está-em-alta-hoje)
     + [1.6.1. Einstein GPT e AI Cloud](#161-einstein-gpt-e-ai-cloud)
     + [1.6.2. Agentforce](#162-agentforce)
     + [1.6.3. Data Cloud](#163-data-cloud)
-  * [Dicas Finais Para 2025](#-dicas-finais-para-2025)
+  * [Dicas Finais Para 2025](#dicas-finais-para-2025)
 
 ## 1.1. O que é Salesforce?
 Salesforce é, principalmente, uma ferramenta de CRM (Customer Relationship Management), mas hoje é capaz de fazer muito mais do que apenas isso.
