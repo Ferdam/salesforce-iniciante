@@ -120,7 +120,7 @@ Outra forma de aprender sobre o Salesforce é pelo site de documentação, que �
 ### 1.3.2. Prática
 Após algum tempo de trailhead, você vai precisar unificar os diversos modulos que aprendeu pelo Trailhead e por conta própria, para isso, considere criar um projeto implementando um use-case do zero da melhor forma que souber e conseguir. Obtenha os metadados de tudo que criar e coloque num repositorio github. Assim poderá ter como algo prático ao seu dispor e como portfolio para as vagas e recruiters q interagir.
 
-Para mais detalhes da parte prática acesse: (**guide da prática em construção**)
+Para mais detalhes da parte prática acesse: [Guide de Prática](Guide-de-Pratica.md.md)
 
 ## 1.4. Impacto do Trailhead e mais informações
 Por fim, o trailhead serve, além de tudo, como portfólio no mundo de Salesforce. Na sua página Trailblazer (perfil do trailhead) é possível ver as conquistas da pessoa pela quantidade de pontos e badges. Além disso, um ponto importante para trabalhar com Salesforce é obter certificações. Assim como a Microsoft, Oracle, SAP e AWS, um profissional pode se certificar em Salesforce em diversos assuntos.
