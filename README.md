@@ -1,6 +1,6 @@
 # 1. Guide para Iniciar em Salesforce (Atualizado 2025)
-- [1. Guide para Iniciar em Salesforce (Atualizado 2025)](#1-guide-para-iniciar-em-salesforce--atualizado-2025-)
-  * [1.1. O que é Salesforce?](#11-o-que-é-salesforce-)
+- [1. Guide para Iniciar em Salesforce (Atualizado 2025)](#1-guide-para-iniciar-em-salesforce--atualizado-2025)
+  * [1.1. O que é Salesforce?](#11-o-que-é-salesforce)
   * [1.2. Carreiras](#12-carreiras)
   * [1.3. Aprender Salesforce - Trailhead](#13-aprender-salesforce---trailhead)
     + [1.3.1. Trailhead](#131-trailhead)
