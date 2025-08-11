@@ -2,10 +2,6 @@
 - [1. Guide para Iniciar em Salesforce (Atualizado 2025)](#1-guide-para-iniciar-em-salesforce--atualizado-2025-)
   * [1.1. O que é Salesforce?](#11-o-que---salesforce-)
   * [1.2. Carreiras](#12-carreiras)
-  * [1.6. O que está em alta hoje](#16-o-que-est--em-alta-hoje)
-    + [1.6.1. Einstein GPT e AI Cloud](#161-einstein-gpt-e-ai-cloud)
-    + [1.6.2. Agentforce](#162-agentforce)
-    + [1.6.3. Data Cloud](#163-data-cloud)
   * [1.3. Aprender Salesforce - Trailhead](#13-aprender-salesforce---trailhead)
     + [1.3.1. Trailhead](#131-trailhead)
       - [1.3.1.1 Passo-a-passo](#1311-passo-a-passo)
@@ -15,12 +11,16 @@
         * [1.3.1.2.3. Everis](#13123-everis)
         * [1.3.1.2.4. Wipro](#13124-wipro)
       - [1.3.1.3. Documentação Salesforce](#1313-documenta--o-salesforce)
-    + [1.3.2 Prática](#132-pr-tica)
+    + [1.3.2. Prática](#132-pr-tica)
   * [1.4. Impacto do Trailhead e mais informações](#14-impacto-do-trailhead-e-mais-informa--es)
   * [1.5. Certificações](#15-certifica--es)
     + [1.5.1. IMPORTANTE: Mudança para Trailhead Academy](#151-importante--mudan-a-para-trailhead-academy)
     + [1.5.2. Como obter certificações?](#152-como-obter-certifica--es-)
     + [1.5.3. Tá, mas quais devo focar?](#153-t---mas-quais-devo-focar-)
+  * [1.6. O que está em alta hoje](#16-o-que-est--em-alta-hoje)
+    + [1.6.1. Einstein GPT e AI Cloud](#161-einstein-gpt-e-ai-cloud)
+    + [1.6.2. Agentforce](#162-agentforce)
+    + [1.6.3. Data Cloud](#163-data-cloud)
   * [🎯 Dicas Finais Para 2025](#---dicas-finais-para-2025)
 
 ## 1.1. O que é Salesforce?
@@ -59,32 +59,6 @@ Profissionais encarregados de montar a arquitetura de soluções e de sistemas p
 Salesforce possui um robusto Design System (Salesforce Lightning Design System - SLDS)
 - <u>Vendas (Sales Career)</u>:
 Profissionais que vão de fato fazer uso da plataforma para gerenciar dados de vendas, registrar produtos e mapear clientes
-
-## 1.6. O que está em alta hoje
-
-### 1.6.1. Einstein GPT e AI Cloud
-Em março de 2023, a Salesforce lançou o Einstein GPT, a primeira IA generativa para CRM. Principais recursos:
-- IA generativa integrada nativamente ao Salesforce
-- **Sales GPT**: emails personalizados, resumos de oportunidades
-- **Service GPT**: respostas automáticas, artigos de conhecimento
-- **Marketing GPT**: conteúdo para campanhas
-- **Developer GPT**: geração de código Apex
-- **Einstein Trust Layer**: camada de segurança para dados empresariais
-
-### 1.6.2. Agentforce
-Lançado em outubro de 2024, o Agentforce vai além de chatbots, são agentes autônomos que executam tarefas complexas:
-- **Service Agent**: resolve cases automaticamente 24/7
-- **Sales Development Agent**: qualifica leads e agenda reuniões
-- **Marketing Agent**: cria campanhas personalizadas
-- **Employee Service Agent**: suporte interno para funcionários
-Muitas empresas estão implementando Agentforce para diversos cenários e casos-de-uso diferentes. Há uma demanda grande para implementação deles tanto nos pequenos quanto nos grandes clientes.
-
-### 1.6.3. Data Cloud
-O Data Cloud se tornou o produto de crescimento mais rápido da Salesforce:
-- Unifica dados de 40+ sistemas em tempo real
-- **Zero-Copy Integration**: conecta dados sem copia-los fisicamente
-- **AI tagging**: classifica automaticamente dados não-estruturados
-- Alimenta toda a IA da Salesforce
 
 ## 1.3. Aprender Salesforce - Trailhead
 
@@ -143,7 +117,7 @@ Outra forma de aprender sobre o Salesforce é pelo site de documentação, que �
 - Apex Guide: https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm
 - Apex Docs: https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex_ref_guide.htm
 
-### 1.3.2 Prática
+### 1.3.2. Prática
 Após algum tempo de trailhead, você vai precisar unificar os diversos modulos que aprendeu pelo Trailhead e por conta própria, para isso, considere criar um projeto implementando um use-case do zero da melhor forma que souber e conseguir. Obtenha os metadados de tudo que criar e coloque num repositorio github. Assim poderá ter como algo prático ao seu dispor e como portfolio para as vagas e recruiters q interagir.
 
 Para mais detalhes da parte prática acesse: (**guide da prática em construção**)
@@ -250,6 +224,32 @@ Em julho de 2025, todas as certificações da Salesforce migraram do **Webassess
   - https://focusonforce.com/salesforce-adm-201-exam-questions/
 - Certified Platform App Builder:
   - https://www.salesforceben.com/free-salesforce-platform-app-builder-practice-exam-with-answers/
+
+## 1.6. O que está em alta hoje
+
+### 1.6.1. Einstein GPT e AI Cloud
+Em março de 2023, a Salesforce lançou o Einstein GPT, a primeira IA generativa para CRM. Principais recursos:
+- IA generativa integrada nativamente ao Salesforce
+- **Sales GPT**: emails personalizados, resumos de oportunidades
+- **Service GPT**: respostas automáticas, artigos de conhecimento
+- **Marketing GPT**: conteúdo para campanhas
+- **Developer GPT**: geração de código Apex
+- **Einstein Trust Layer**: camada de segurança para dados empresariais
+
+### 1.6.2. Agentforce
+Lançado em outubro de 2024, o Agentforce vai além de chatbots, são agentes autônomos que executam tarefas complexas:
+- **Service Agent**: resolve cases automaticamente 24/7
+- **Sales Development Agent**: qualifica leads e agenda reuniões
+- **Marketing Agent**: cria campanhas personalizadas
+- **Employee Service Agent**: suporte interno para funcionários
+Muitas empresas estão implementando Agentforce para diversos cenários e casos-de-uso diferentes. Há uma demanda grande para implementação deles tanto nos pequenos quanto nos grandes clientes.
+
+### 1.6.3. Data Cloud
+O Data Cloud se tornou o produto de crescimento mais rápido da Salesforce:
+- Unifica dados de 40+ sistemas em tempo real
+- **Zero-Copy Integration**: conecta dados sem copia-los fisicamente
+- **AI tagging**: classifica automaticamente dados não-estruturados
+- Alimenta toda a IA da Salesforce
 
 ---
 
