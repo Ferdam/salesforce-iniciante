@@ -31,33 +31,33 @@ A plataforma é dividida em clouds, que são conjuntos de soluções para resolv
 Algumas clouds são oficiais, outras são third-party, feitas com as ferramentas de desenvolvimento Salesforce (são como plugins)
 
 As Clouds principais (oficiais):
-- <u>Sales Cloud</u>: a mais comum, gerencia dados de vendas, clientes e até mapeamento de contatos
-- <u>Service Cloud</u>: também bem comum; util para gerenciar casos, tickets e registrar informações de suporte e até call center
-- <u>Community Cloud</u>: a parte externa do Salesforce, para clientes acessarem - criação/edição de registros, pedidos, cases etc
-- <u>Marketing Cloud</u>: conjunto de soluções para marketing (campanhas, e-mails etc)
-- <u>Data Cloud</u>: a cloud que unifica e harmoniza dados de todas as fontes da empresa em tempo real
-- <u>AI Cloud</u>: conjunto de ferramentas de IA generativa e agentes autônomos
+- **Sales Cloud**: a mais comum, gerencia dados de vendas, clientes e até mapeamento de contatos
+- **Service Cloud**: também bem comum; util para gerenciar casos, tickets e registrar informações de suporte e até call center
+- **Community Cloud**: a parte externa do Salesforce, para clientes acessarem - criação/edição de registros, pedidos, cases etc
+- **Marketing Cloud**: conjunto de soluções para marketing (campanhas, e-mails etc)
+- **Data Cloud**: a cloud que unifica e harmoniza dados de todas as fontes da empresa em tempo real
+- **AI Cloud**: conjunto de ferramentas de IA generativa e agentes autônomos
 
 ## 1.2. Carreiras
 Trabalhar com Salesforce envolve diversas carreiras:
-- <u>Administrator</u>:
+- **Administrator**:
 Configuração do ambiente, criação de objetos (tabelas), campos, automações, visibilidade de registros e permissões etc
-- <u>Developer</u>:
+- **Developer**:
 Criação de automações com as ferramentas padrões (Flow); Customização com código: 
   - Apex - linguagem backend baseada em Java e C#. Faz uso de Orientação a Objetos (OOP); serve para backend no geral: controllers, triggers e integrações; 
   - SOQL - linguagem de consulta de banco de dados; 
   - Aura/Lightning Web Components (LWC) - frameworks para desenvolvimento de elementos visuais (frontend) utilizando tecnologias web como HTML/CSS e JavaScript
-- <u>AI/Agent Developer</u>: 
+- **AI/Agent Developer**: 
 Especialista em configurar e desenvolver agentes de IA usando Agentforce, criando automações inteligentes e integrações com IA generativa
-- <u>Data Cloud Specialist</u>: 
+- **Data Cloud Specialist**: 
 Profissional focado em unificar dados de múltiplas fontes, criar modelos de dados e implementar soluções de data lakes/warehouses
-- <u>Consultant / Business Analyst</u>:
+- **Consultant / Business Analyst**:
 Pessoas que vão analisar as dores dos clientes e usuários e traduzir em soluções que a plataforma resolva
-- <u>Architect</u>:
+- **Architect**:
 Profissionais encarregados de montar a arquitetura de soluções e de sistemas pensando no ecossistema Salesforce
-- <u>Designer</u>:
+- **Designer**:
 Salesforce possui um robusto Design System (Salesforce Lightning Design System - SLDS)
-- <u>Vendas (Sales Career)</u>:
+- **Vendas (Sales Career)**:
 Profissionais que vão de fato fazer uso da plataforma para gerenciar dados de vendas, registrar produtos e mapear clientes
 
 ## 1.3. Aprender Salesforce - Trailhead
